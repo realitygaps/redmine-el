@@ -1,4 +1,4 @@
-;;;; redmine.el --- See Redmine on Emacs
+;;; redmine.el --- See Redmine on Emacs
 
 ;; Copyright (C) 2010  Eitarow Fukamachi <e.arrows@gmail.com>
 
